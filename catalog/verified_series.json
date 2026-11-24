@@ -194,5 +194,47 @@
     "isSeries": true,
     "accentHex": 4292943176,
     "hasStudioPoster": true
+  },
+  {
+    "id": "ia_los-tres-chiflados-sesos-de-pajaros-audio-latino",
+    "title": "Los Tres Chiflados · Audio Latino",
+    "year": "1950",
+    "genre": "Comedia",
+    "backdropKey": "cinema",
+    "description": "Los clásicos enredos de Moe, Larry y Curly con doblaje clásico en español latino.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDg0NWEwODktZWYyNS00OGE0LTkzNmItZDc0ZWRhODFmYzkzXkEyXkFqcGc@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "hasStudioPoster": true,
+    "directUrl": "https://archive.org/download/los-tres-chiflados-sesos-de-pajaros-audio-latino/Los%20Tres%20Chiflados%20-%20Sesos%20de%20P%C3%A1jaros%20%28Audio%20Latino%29.mp4",
+    "archiveId": "los-tres-chiflados-sesos-de-pajaros-audio-latino",
+    "isSeries": true,
+    "accentHex": 4294286859
+  },
+  {
+    "id": "ia_5hjtjf",
+    "title": "Érase una vez el Hombre · Los Vikingos",
+    "year": "1978",
+    "genre": "Animación",
+    "backdropKey": "docs",
+    "description": "La recordada serie animada histórica con el Maestro en audio español latino.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzMzNmViNjYtN2ViNi00NDM3LWFlMmItNDYyMGIzY2EzZjE2XkEyXkFqcGc@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "hasStudioPoster": true,
+    "directUrl": "https://archive.org/download/5hjtjf/5hjtjf.mp4",
+    "archiveId": "5hjtjf",
+    "isSeries": true,
+    "accentHex": 4281908728
+  },
+  {
+    "id": "ia_3gsreg_202408",
+    "title": "Érase una vez el Hombre · Los Carolingios",
+    "year": "1978",
+    "genre": "Animación",
+    "backdropKey": "docs",
+    "description": "Aventura histórica animada en español latino sobre el imperio de Carlomagno.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzMzNmViNjYtN2ViNi00NDM3LWFlMmItNDYyMGIzY2EzZjE2XkEyXkFqcGc@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "hasStudioPoster": true,
+    "directUrl": "https://archive.org/download/3gsreg_202408/3gsreg.mp4",
+    "archiveId": "3gsreg_202408",
+    "isSeries": true,
+    "accentHex": 4281908728
   }
 ]

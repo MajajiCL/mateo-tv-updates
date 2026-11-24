@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "4.1.0",
+  "versionCode": 6,
+  "versionName": "4.2.0",
   "apkUrl": "https://github.com/MajajiCL/mateo-tv-updates/releases/latest/download/MateoTV.apk",
-  "changelog": "Actualización automática silenciosa de canales/películas y auto-actualizador de la app en 1 clic.",
-  "catalogVersion": 1,
+  "changelog": "Nueva foto de perfil de tu Portafolio, +17 clásicos chilenos y documentales en español, TV de 18 países del mundo y reanudación por minuto exacto.",
+  "catalogVersion": 2,
   "tvUrl": "https://raw.githubusercontent.com/MajajiCL/mateo-tv-updates/main/catalog/verified_tv.json",
   "moviesUrl": "https://raw.githubusercontent.com/MajajiCL/mateo-tv-updates/main/catalog/verified_movies.json",
   "seriesUrl": "https://raw.githubusercontent.com/MajajiCL/mateo-tv-updates/main/catalog/verified_series.json"
