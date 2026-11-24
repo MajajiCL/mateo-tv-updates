@@ -1,10 +1,10 @@
 {
-  "versionCode": 6,
-  "versionName": "4.2.0",
-  "apkUrl": "https://github.com/MajajiCL/mateo-tv-updates/releases/latest/download/MateoTV.apk",
-  "changelog": "Nueva foto de perfil de tu Portafolio, +17 clásicos chilenos y documentales en español, TV de 18 países del mundo y reanudación por minuto exacto.",
-  "catalogVersion": 2,
-  "tvUrl": "https://raw.githubusercontent.com/MajajiCL/mateo-tv-updates/main/catalog/verified_tv.json",
-  "moviesUrl": "https://raw.githubusercontent.com/MajajiCL/mateo-tv-updates/main/catalog/verified_movies.json",
-  "seriesUrl": "https://raw.githubusercontent.com/MajajiCL/mateo-tv-updates/main/catalog/verified_series.json"
+    "seriesUrl":  "https://raw.githubusercontent.com/MajajiCL/mateo-tv-updates/main/catalog/verified_series.json",
+    "moviesUrl":  "https://raw.githubusercontent.com/MajajiCL/mateo-tv-updates/main/catalog/verified_movies.json",
+    "changelog":  "Foto recentrada en avatar y miniatura TV, reproductor mejorado (adelanto continuo y foco fluido en botones), catálogos completos sin \u0027Cargar más\u0027, +24 películas y series en español, y TV por País (325 canales en 12+ países).",
+    "versionCode":  7,
+    "apkUrl":  "https://github.com/MajajiCL/mateo-tv-updates/releases/latest/download/MateoTV.apk",
+    "versionName":  "4.3.0",
+    "tvUrl":  "https://raw.githubusercontent.com/MajajiCL/mateo-tv-updates/main/catalog/verified_tv.json",
+    "catalogVersion":  3
 }
