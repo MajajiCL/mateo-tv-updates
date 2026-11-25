@@ -1,5 +1,185 @@
 [
   {
+    "id": "ia_popeye-espanol-latino",
+    "title": "Popeye el Marino · Latino",
+    "year": "1933",
+    "genre": "Animación",
+    "backdropKey": "series",
+    "description": "Colección clásica de cortos de Popeye en español latino.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZWZmNDA3MDgtZjVlNy00ZWYxLTg5ZGUtNzJlYzZkMTQyZDkwXkEyXkFqcGc@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "directUrl": "https://archive.org/download/popeye-espanol-latino/000%20-%20Popeye%20estrella%20de%20cine%20%5BSISSA%5D.mp4",
+    "archiveId": "popeye-espanol-latino",
+    "isSeries": true,
+    "episodeCount": 76,
+    "accentHex": 4279150057,
+    "hasStudioPoster": true
+  },
+  {
+    "id": "ia_vidklvserieladimensiondesconocida",
+    "title": "La Dimensión Desconocida",
+    "year": "1985",
+    "genre": "Comedia",
+    "backdropKey": "series",
+    "description": "Más de 150 episodios en español de ciencia ficción, misterio y suspenso.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjY3MzMxYmUtN2IyNy00NmFmLTk3ODktMTM1ZDc1NDg1NzQ4XkEyXkFqcGc@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "directUrl": "https://archive.org/download/vidklvserieladimensiondesconocida/Serie/La%20Dimensi%C3%B3n%20Desconocida/20110523%20Dimensi%C3%B3n%20Desconocida%201985.%20Curandero%20%28Healer%29%20%5BUz7Bmx7ADWA%5D/20110523%20Dimensi%C3%B3n%20Desconocida%201985.%20Curandero%20%28Healer%29%20%5BUz7Bmx7ADWA%5D.mp4",
+    "archiveId": "vidklvserieladimensiondesconocida",
+    "isSeries": true,
+    "episodeCount": 172,
+    "accentHex": 4287323382,
+    "hasStudioPoster": true
+  },
+  {
+    "id": "ia_chvochplin-vhsrips",
+    "title": "El Chavo y El Chapulín · Archivo",
+    "year": "1973",
+    "genre": "Comedia",
+    "backdropKey": "series",
+    "description": "Más de 130 episodios clásicos originales de Chespirito en español.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNmRkZmIxMmYtMjY5Ny00MzA3LWI1MmYtZDg3MjBhZDFlZTY5XkEyXkFqcGc@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "directUrl": "https://archive.org/download/chvochplin-vhsrips/CHAPULIN_CN_DIC22_2010.mp4",
+    "archiveId": "chvochplin-vhsrips",
+    "isSeries": true,
+    "episodeCount": 138,
+    "accentHex": 4293870660,
+    "hasStudioPoster": true
+  },
+  {
+    "id": "ia_heidi-collection",
+    "title": "Heidi · Serie Completa",
+    "year": "1974",
+    "genre": "Animación",
+    "backdropKey": "series",
+    "description": "Los 52 episodios completos en español de la inolvidable niña de los Alpes.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2EyMzEwOGMtNTc3OC00NDgxLWIwNDEtM2JkOTNjZDBhNDVkXkEyXkFqcGc@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "directUrl": "https://archive.org/download/heidi-collection/01-%20Heidi%20Cap%C3%ADtulo%201%20Hacia%20La%20Monta%C3%B1a.mp4",
+    "archiveId": "heidi-collection",
+    "isSeries": true,
+    "episodeCount": 52,
+    "accentHex": 4281908728,
+    "hasStudioPoster": true
+  },
+  {
+    "id": "ia_marco-serie-completa_202508",
+    "title": "Marco · Serie Completa",
+    "year": "1976",
+    "genre": "Animación",
+    "backdropKey": "series",
+    "description": "Serie animada completa en español: el viaje de Marco de Génova a Argentina.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTMxMzAzMjcwMV5BMl5BanBnXkFtZTcwMTc0OTQ3MQ@@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "directUrl": "https://archive.org/download/marco-serie-completa_202508/Marco%20Episodio%2001.mp4",
+    "archiveId": "marco-serie-completa_202508",
+    "isSeries": true,
+    "episodeCount": 52,
+    "accentHex": 4281908728,
+    "hasStudioPoster": true
+  },
+  {
+    "id": "ia_thundercats_202303",
+    "title": "ThunderCats · Serie Clásica",
+    "year": "1985",
+    "genre": "Animación",
+    "backdropKey": "series",
+    "description": "Los 130 episodios completos en español latino de Lion-O y los Felinos Cósmicos.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWNmNTc3MDktNDkyNS00OWY3LThiY2YtYzBlYjYyOTRkZDk5XkEyXkFqcGc@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "directUrl": "https://archive.org/download/thundercats_202303/Thundercats%20%28S01E001%29%20-%20Exodo.mp4",
+    "archiveId": "thundercats_202303",
+    "isSeries": true,
+    "episodeCount": 130,
+    "accentHex": 4294286859,
+    "hasStudioPoster": true
+  },
+  {
+    "id": "ia_HeManLAT",
+    "title": "He-Man y los Amos del Universo",
+    "year": "1983",
+    "genre": "Animación",
+    "backdropKey": "series",
+    "description": "Serie clásica completa (130 episodios) en español latino.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzAxYzg1YmUtMzJkOS00NGEyLTkyM2MtNTk1NzE4MTQ1MDUwXkEyXkFqcGc@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "directUrl": "https://archive.org/download/HeManLAT/001%20-%20El%20rayo%20desaparecedor%20de%20diamante.mp4",
+    "archiveId": "HeManLAT",
+    "isSeries": true,
+    "episodeCount": 131,
+    "accentHex": 4292441862,
+    "hasStudioPoster": true
+  },
+  {
+    "id": "ia_mazinger-z_202304",
+    "title": "Mazinger Z · Serie Completa",
+    "year": "1972",
+    "genre": "Animación",
+    "backdropKey": "series",
+    "description": "Los 92 episodios clásicos en español del legendario robot gigante.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzQ5OWEzMzAtZGNmOC00YjJlLTgzNGYtMzUzN2NlNTI1OTY3XkEyXkFqcGc@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "directUrl": "https://archive.org/download/mazinger-z_202304/Mazinger%20Z%20%28S01E01%29%20-%20El%20Nacimiento%20De%20Un%20Robot%20Milagroso.mp4",
+    "archiveId": "mazinger-z_202304",
+    "isSeries": true,
+    "episodeCount": 92,
+    "accentHex": 4292943176,
+    "hasStudioPoster": true
+  },
+  {
+    "id": "ia_robotech_202303",
+    "title": "Robotech · Saga Completa",
+    "year": "1985",
+    "genre": "Animación",
+    "backdropKey": "series",
+    "description": "Los 85 episodios completos en español latino (Macross, Masters y Nueva Generación).",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTkwNDA0NjAxN15BMl5BanBnXkFtZTgwMDU5MjAxMzE@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "directUrl": "https://archive.org/download/robotech_202303/Robotech%20%28S01E01%29%20La%20Saga%20Macross%20-%20El%20Se%C3%B1uelo.mp4",
+    "archiveId": "robotech_202303",
+    "isSeries": true,
+    "episodeCount": 91,
+    "accentHex": 4282090230,
+    "hasStudioPoster": true
+  },
+  {
+    "id": "ia_el-show-del-pajaro-loco-1957-1977",
+    "title": "El Show del Pájaro Loco · Clásico",
+    "year": "1957",
+    "genre": "Animación",
+    "backdropKey": "series",
+    "description": "Más de 110 episodios con el doblaje latino clásico del Pájaro Loco.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjA2NTU5ZDQtNTNjMS00ZDgxLWE3MzUtZGViNjc2YTZhOTY5XkEyXkFqcGc@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "directUrl": "https://archive.org/download/el-show-del-pajaro-loco-1957-1977/El%20Show%20del%20P%C3%A1jaro%20Loco%20%28S1E01%29%20%28Doblaje%20Cl%C3%A1sico%29.mp4",
+    "archiveId": "el-show-del-pajaro-loco-1957-1977",
+    "isSeries": true,
+    "episodeCount": 113,
+    "accentHex": 4293870660,
+    "hasStudioPoster": true
+  },
+  {
+    "id": "ia_Don-Gato-Y-Su-Pandilla-Latino",
+    "title": "Don Gato y su Pandilla · Completa",
+    "year": "1961",
+    "genre": "Animación",
+    "backdropKey": "series",
+    "description": "Los 30 episodios completos con el mítico doblaje latino clásico.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmMzMmY3ODYtOTU1OS00N2IxLTk5YzQtMDZkOTliMjE2ZDhiXkEyXkFqcGc@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "directUrl": "https://archive.org/download/Don-Gato-Y-Su-Pandilla-Latino/S01E01.mp4",
+    "archiveId": "Don-Gato-Y-Su-Pandilla-Latino",
+    "isSeries": true,
+    "episodeCount": 32,
+    "accentHex": 4294286859,
+    "hasStudioPoster": true
+  },
+  {
+    "id": "ia_un-intruso-en-el-espacio",
+    "title": "Perdidos en el Espacio",
+    "year": "1965",
+    "genre": "Comedia",
+    "backdropKey": "series",
+    "description": "Clásico de ciencia ficción familiar de los 60 en español latino.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjE2OTczMDI2M15BMl5BanBnXkFtZTcwMTA5MDgyMQ@@._V1_UX500_CR0,0,500,740_AL_.jpg",
+    "directUrl": "https://archive.org/download/un-intruso-en-el-espacio/1-01_Un_intruso_en_el_Espacio.mp4",
+    "archiveId": "un-intruso-en-el-espacio",
+    "isSeries": true,
+    "episodeCount": 1,
+    "accentHex": 4281908728,
+    "hasStudioPoster": true
+  },
+  {
     "id": "ia_llanero-solitario_202204",
     "title": "El Llanero Solitario",
     "year": "1949",
@@ -11,7 +191,8 @@
     "archiveId": "llanero-solitario_202204",
     "isSeries": true,
     "accentHex": 4292441862,
-    "hasStudioPoster": true
+    "hasStudioPoster": true,
+    "episodeCount": 1
   },
   {
     "id": "ia_el-zorro",
@@ -25,7 +206,8 @@
     "archiveId": "el-zorro",
     "isSeries": true,
     "accentHex": 4292943176,
-    "hasStudioPoster": true
+    "hasStudioPoster": true,
+    "episodeCount": 79
   },
   {
     "id": "ia_03-el-zorro-cabalga-a-la-mision",
@@ -39,7 +221,8 @@
     "archiveId": "03-el-zorro-cabalga-a-la-mision",
     "isSeries": true,
     "accentHex": 4292943176,
-    "hasStudioPoster": true
+    "hasStudioPoster": true,
+    "episodeCount": 1
   },
   {
     "id": "ia_06-el-zorro-salva-a-un-amigo",
@@ -53,7 +236,8 @@
     "archiveId": "06-el-zorro-salva-a-un-amigo",
     "isSeries": true,
     "accentHex": 4292943176,
-    "hasStudioPoster": true
+    "hasStudioPoster": true,
+    "episodeCount": 1
   },
   {
     "id": "ia_08-el-zorro-cabalga-hacia-el-terror",
@@ -67,7 +251,8 @@
     "archiveId": "08-el-zorro-cabalga-hacia-el-terror",
     "isSeries": true,
     "accentHex": 4292943176,
-    "hasStudioPoster": true
+    "hasStudioPoster": true,
+    "episodeCount": 1
   },
   {
     "id": "ia_cantinflasshow",
@@ -81,7 +266,8 @@
     "archiveId": "cantinflasshow",
     "isSeries": true,
     "accentHex": 4294286859,
-    "hasStudioPoster": true
+    "hasStudioPoster": true,
+    "episodeCount": 63
   },
   {
     "id": "ia_amigoandfriends",
@@ -95,7 +281,8 @@
     "archiveId": "amigoandfriends",
     "isSeries": true,
     "accentHex": 4294286859,
-    "hasStudioPoster": true
+    "hasStudioPoster": true,
+    "episodeCount": 62
   },
   {
     "id": "ia_el-chapulin-colorado-el-pistolero-veloz-1973",
@@ -109,7 +296,8 @@
     "archiveId": "el-chapulin-colorado-el-pistolero-veloz-1973",
     "isSeries": true,
     "accentHex": 4292943176,
-    "hasStudioPoster": true
+    "hasStudioPoster": true,
+    "episodeCount": 1
   },
   {
     "id": "ia_la-pantera-rosa",
@@ -123,7 +311,8 @@
     "archiveId": "la-pantera-rosa",
     "isSeries": true,
     "accentHex": 4293675161,
-    "hasStudioPoster": true
+    "hasStudioPoster": true,
+    "episodeCount": 47
   },
   {
     "id": "ia_LAPANTERAROSAPalaRosaAudioEspaolLatino",
@@ -137,7 +326,8 @@
     "archiveId": "LAPANTERAROSAPalaRosaAudioEspaolLatino",
     "isSeries": true,
     "accentHex": 4293675161,
-    "hasStudioPoster": true
+    "hasStudioPoster": true,
+    "episodeCount": 4
   },
   {
     "id": "ia_meteoro-03-ladyarmaroid.org",
@@ -151,7 +341,8 @@
     "archiveId": "meteoro-03-ladyarmaroid.org",
     "isSeries": true,
     "accentHex": 4293870660,
-    "hasStudioPoster": true
+    "hasStudioPoster": true,
+    "episodeCount": 108
   },
   {
     "id": "ia_Popeye33",
@@ -165,7 +356,8 @@
     "archiveId": "Popeye33",
     "isSeries": true,
     "accentHex": 4279150057,
-    "hasStudioPoster": true
+    "hasStudioPoster": true,
+    "episodeCount": 169
   },
   {
     "id": "ia_tintin-espanol",
@@ -179,7 +371,8 @@
     "archiveId": "tintin-espanol",
     "isSeries": true,
     "accentHex": 4281908728,
-    "hasStudioPoster": true
+    "hasStudioPoster": true,
+    "episodeCount": 22
   },
   {
     "id": "ia_mazingerzelrobotdelasestrellas1978remasterizadahd",
@@ -193,7 +386,8 @@
     "archiveId": "mazingerzelrobotdelasestrellas1978remasterizadahd",
     "isSeries": true,
     "accentHex": 4292943176,
-    "hasStudioPoster": true
+    "hasStudioPoster": true,
+    "episodeCount": 1
   },
   {
     "id": "ia_los-tres-chiflados-sesos-de-pajaros-audio-latino",
@@ -207,7 +401,8 @@
     "directUrl": "https://archive.org/download/los-tres-chiflados-sesos-de-pajaros-audio-latino/Los%20Tres%20Chiflados%20-%20Sesos%20de%20P%C3%A1jaros%20%28Audio%20Latino%29.mp4",
     "archiveId": "los-tres-chiflados-sesos-de-pajaros-audio-latino",
     "isSeries": true,
-    "accentHex": 4294286859
+    "accentHex": 4294286859,
+    "episodeCount": 1
   },
   {
     "id": "ia_5hjtjf",
@@ -221,7 +416,8 @@
     "directUrl": "https://archive.org/download/5hjtjf/5hjtjf.mp4",
     "archiveId": "5hjtjf",
     "isSeries": true,
-    "accentHex": 4281908728
+    "accentHex": 4281908728,
+    "episodeCount": 1
   },
   {
     "id": "ia_3gsreg_202408",
@@ -235,7 +431,8 @@
     "directUrl": "https://archive.org/download/3gsreg_202408/3gsreg.mp4",
     "archiveId": "3gsreg_202408",
     "isSeries": true,
-    "accentHex": 4281908728
+    "accentHex": 4281908728,
+    "episodeCount": 1
   },
   {
     "id": "ia_candycandylatamdub",
@@ -249,7 +446,8 @@
     "directUrl": "https://archive.org/download/candycandylatamdub/CDY-001.mp4",
     "archiveId": "candycandylatamdub",
     "isSeries": true,
-    "accentHex": 4293675161
+    "accentHex": 4293675161,
+    "episodeCount": 115
   },
   {
     "id": "ia_gya-01x-11-serieslan.com",
@@ -263,7 +461,8 @@
     "directUrl": "https://archive.org/download/gya-01x-11-serieslan.com/GYA-01x01%20-%20Serieslan.com.ia.mp4",
     "archiveId": "gya-01x-11-serieslan.com",
     "isSeries": true,
-    "accentHex": 4294538006
+    "accentHex": 4294538006,
+    "episodeCount": 26
   },
   {
     "id": "ia_gya-01x-20-serieslan.com",
@@ -277,7 +476,8 @@
     "directUrl": "https://archive.org/download/gya-01x-20-serieslan.com/GYA-01x14%20-%20Serieslan.com.ia.mp4",
     "archiveId": "gya-01x-20-serieslan.com",
     "isSeries": true,
-    "accentHex": 4294538006
+    "accentHex": 4294538006,
+    "episodeCount": 52
   },
   {
     "id": "ia_tomyjerryenlatinocompilacionclasicadedibujosanimadostomjerryyspikewbkids_202003",
@@ -291,7 +491,8 @@
     "directUrl": "https://archive.org/download/tomyjerryenlatinocompilacionclasicadedibujosanimadostomjerryyspikewbkids_202003/Tom%20y%20Jerry%20en%20Latino%20Compilaci%C3%B3n%20cl%C3%A1sica%20de%20dibujos%20animados%20Tom%2C%20Jerry%20y%20Spike%20WB%20Kids.mp4",
     "archiveId": "tomyjerryenlatinocompilacionclasicadedibujosanimadostomjerryyspikewbkids_202003",
     "isSeries": true,
-    "accentHex": 4281908728
+    "accentHex": 4281908728,
+    "episodeCount": 1
   },
   {
     "id": "ia_looney-tunes-y-merrie-melodies-1929-2014",
@@ -305,7 +506,8 @@
     "directUrl": "https://archive.org/download/looney-tunes-y-merrie-melodies-1929-2014/1929E01%20Bosko%2C%20the%20Talk%20Ink%20Kid.ia.mp4",
     "archiveId": "looney-tunes-y-merrie-melodies-1929-2014",
     "isSeries": true,
-    "accentHex": 4294286859
+    "accentHex": 4294286859,
+    "episodeCount": 1
   },
   {
     "id": "ia_el-chapulin-colorado-la-historia-de-don-juan-tenorio-1978",
@@ -319,7 +521,8 @@
     "directUrl": "https://archive.org/download/el-chapulin-colorado-la-historia-de-don-juan-tenorio-1978/El%20Chapulin%20Colorado%20La%20historia%20de%20Don%20Juan%20Tenorio%201978.mp4",
     "archiveId": "el-chapulin-colorado-la-historia-de-don-juan-tenorio-1978",
     "isSeries": true,
-    "accentHex": 4292943176
+    "accentHex": 4292943176,
+    "episodeCount": 1
   },
   {
     "id": "ia_el-chapulin-colorado-matrimonio-y-mortaja-lana-sube-y-lana-baja-1977",
@@ -333,7 +536,8 @@
     "directUrl": "https://archive.org/download/el-chapulin-colorado-matrimonio-y-mortaja-lana-sube-y-lana-baja-1977/El%20Chapul%C3%ADn%20Colorado%20Matrimonio%20y%20Mortaja%2C%20lana%20sube%20y%20lana%20baja%201977.mp4",
     "archiveId": "el-chapulin-colorado-matrimonio-y-mortaja-lana-sube-y-lana-baja-1977",
     "isSeries": true,
-    "accentHex": 4292943176
+    "accentHex": 4292943176,
+    "episodeCount": 1
   },
   {
     "id": "ia_chespirito-el-chavo-la-fiesta-de-nono",
@@ -347,6 +551,7 @@
     "directUrl": "https://archive.org/download/chespirito-el-chavo-la-fiesta-de-nono/Chespirito%20-%20El%20Chavo%3B%20La%20fiesta%20de%20%C3%91o%C3%B1o.ia.mp4",
     "archiveId": "chespirito-el-chavo-la-fiesta-de-nono",
     "isSeries": true,
-    "accentHex": 4279286145
+    "accentHex": 4279286145,
+    "episodeCount": 2
   }
 ]
